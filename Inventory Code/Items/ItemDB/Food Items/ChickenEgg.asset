@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80f9fd496c88de478ff18a849fe852a, type: 3}
+  m_Name: ChickenEgg
+  m_EditorClassIdentifier: 
+  ItemName: Chicken Egg
+  Icon: {fileID: 21300000, guid: c244d4902c498834a85b2be7959cc65a, type: 3}
+  type: 0
+  Discription: 'a Simple Chicken egg this Creemy treat is great for most creatures,
+    though its often debated if the chicken or the egg comes first, most agree that
+    in terms of flavor the egg is by far superior.
+
+    FoodGroup - Dairy
+
+    Flavor
+    - Savory & Jucy
+
+    Stat Bonuses - ++ Spd'
+  BuyValue: 7
+  Statbonus: 1
+  StatIncraseValue: 2
+  FoodGroup: 4
+  flavor1: 2
+  Flavor2: 7
+  Statbonus2: 0
+  Stat2IncreaseValue: 0
+  StatReduced: 0
+  StatReductionValue: 0
+  FillingAmmount: 5

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0695ac707d5014d8419543a125e178, type: 3}
+  m_Name: JormbMeatU
+  m_EditorClassIdentifier: 
+  ItemName: JombMeat
+  Icon: {fileID: 21300000, guid: b4fb311794b5dd24b855d1c5e60c5434, type: 3}
+  type: 0
+  Discription: 'A thick and tough chewy meat with a Gamey flavor, Its best used in
+    stews when eaten by people though some monsters enjoy the chewy meat.
+
+    FoodGroup
+    - Meat
+
+    Flavor - Savory & Bitter
+
+    Stat Bonuses - ++Def'
+  BuyValue: 10
+  foodobj: {fileID: 11400000, guid: b6726e95a1525564abc4d33703628806, type: 2}
+  careitmobj: {fileID: 0}
